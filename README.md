@@ -1,5 +1,8 @@
 # Presentations
-Contains all the presentations made by the Pos student during the meeting, workshop, course, bootcamp... :) Enjoy !
+Contains all the presentations made by the Pos student during the meeting, workshop, course, bootcamp... :)
+To have a list of the presentations made so far with some informations, check the file "Index.xls". :)
+
+Have fun and Enjoy ! :) 
 
 ### Why should I present and participate on the POS Café meetings ?
 The POS café meetings is one the core pieces of the POS Café philosophy.
